@@ -1,3 +1,3 @@
-# TEST_SK
+# TEST_T
 
-to jest wpis testowy, i dodano poprawke
+To jest projekt poświęcony testowaniu technologii gitworkflow w budowie kodu.
